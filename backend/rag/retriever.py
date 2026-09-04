@@ -2,8 +2,8 @@ import os
 
 from dotenv import load_dotenv
 from qdrant_client import QdrantClient
-from sentence_transformers import SentenceTransformer
 
+from rag.embedding import create_embedding
 from rag.generator import generate_answer
 
 
@@ -17,19 +17,6 @@ QDRANT_URL = os.getenv("QDRANT_URL")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 
 COLLECTION_NAME = "personal_knowledge"
-
-
-# --------------------------------------------------
-# LOAD EMBEDDING MODEL
-# --------------------------------------------------
-
-print("Loading embedding model...")
-
-model = SentenceTransformer(
-    "all-MiniLM-L6-v2"
-)
-
-print("Embedding model loaded.")
 
 
 # --------------------------------------------------
@@ -53,7 +40,8 @@ def is_project_list_question(question):
     Check whether the user is asking for a list of projects.
 
     These questions should use the dedicated
-    LIST OF PROJECTS chunk instead of normal semantic search.
+    LIST OF PROJECTS chunk instead of normal
+    semantic search.
     """
 
     question = question.lower().strip()
@@ -89,7 +77,9 @@ def semantic_search(question, limit=5):
     from Qdrant.
     """
 
-    vector = model.encode(question).tolist()
+    vector = create_embedding(
+        question
+    ).tolist()
 
     results = client.query_points(
         collection_name=COLLECTION_NAME,
@@ -109,8 +99,9 @@ def search_project_list():
     """
     Retrieve the dedicated LIST OF PROJECTS chunk.
 
-    We scan the small knowledge base and find the chunk
-    whose first line is exactly "LIST OF PROJECTS".
+    We scan the small knowledge base and find
+    the chunk whose first line is exactly
+    "LIST OF PROJECTS".
     """
 
     results, _ = client.scroll(
@@ -159,9 +150,7 @@ def search(question, limit=5):
             "\n[Retriever] Project-list question detected."
         )
 
-        results = search_project_list()
-
-        return results
+        return search_project_list()
 
     print(
         "\n[Retriever] Using semantic search."
@@ -245,6 +234,7 @@ if __name__ == "__main__":
         )
 
         if score is not None:
+
             print(
                 f"Score: {score:.3f}"
             )

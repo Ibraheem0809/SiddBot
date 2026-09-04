@@ -1,0 +1,308 @@
+PERSONAL INFORMATION
+
+Name: MD Ibraheem Siddiqui
+
+Current Role:
+B.Tech Computer Science Engineering Student
+
+University:
+United University, Prayagraj
+
+Expected Graduation:
+2028
+
+Professional Goal:
+Ibraheem is currently seeking a developer internship to gain practical industry experience and work on real-world software development problems.
+
+Areas of Interest:
+- AI Engineering
+- Backend Development
+- Full-Stack Development
+- Web Development
+- Data Structures and Algorithms
+- Problem Solving
+
+
+ABOUT
+
+Ibraheem Siddiqui is a B.Tech Computer Science & Engineering student with skills in full-stack web development, backend development, Data Structures & Algorithms, and AI Engineering.
+He has experience building web applications using the MERN stack and working with technologies such as React.js, Node.js, Express.js, MongoDB, REST APIs, and Tailwind CSS.
+He is also developing his skills in AI Engineering and Python-based data and AI technologies, including NumPy, Pandas, and Matplotlib.
+Ibraheem enjoys building practical projects and has worked on projects involving eCommerce, portfolio websites, client-based web development, and AI-powered claim verification.
+He has strong problem-solving and analytical skills and is a quick learner with an interest in backend and full-stack development.
+
+
+PROFESSIONAL CAREER
+
+Ibraheem is currently a B.Tech Computer Science Engineering student and is seeking a developer internship.
+
+His current professional areas of interest include:
+- AI Engineering
+- Backend Development
+- Full-Stack Development
+- Software Development
+
+He has practical project experience through personal and client-oriented projects.
+
+Grobuzz was a startup project developed in March 2026. Ibraheem developed a responsive website based on client requirements, with a focus on UI design and usability.
+He has also developed multiple personal and technical projects, including Forever, MyPortfolio, and VeritasAI.
+
+
+EDUCATIONAL BACKGROUND
+
+Bachelor of Technology in Computer Science Engineering
+
+University:
+United University, Prayagraj
+
+Duration:
+2024–2028 expected
+
+CGPA:
+8.51 till 4th semester
+
+
+Senior Secondary (Class XII)
+
+Board:
+CBSE
+
+Stream:
+Science (PCM)
+
+Year:
+2023–2024
+
+Percentage:
+77%
+
+
+Secondary (Class X)
+
+Board:
+CBSE
+
+Year:
+2021–2022
+
+Percentage:
+87%
+
+
+CERTIFICATION
+
+Web Application Development
+
+Provider:
+Udemy
+
+Duration:
+February 2026 – March 2026
+
+Program Duration:
+22 hours
+
+The program covered:
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- REST APIs
+- Frontend-backend integration
+
+The program included building real-world projects.
+
+
+TECHNICAL SKILLS
+
+Programming Languages:
+- Java
+- Python
+- C
+- JavaScript
+
+Frontend Technologies:
+- React.js
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+
+Backend Technologies:
+- Node.js
+- Express.js
+- REST APIs
+
+Database:
+- MongoDB
+- Qdrant(VectorDB)
+
+AI and Data Technologies:
+- AI Engineering
+- NumPy
+- Pandas
+- Matplotlib
+
+Tools and Deployment:
+- Git
+- GitHub
+- Postman
+- Vercel
+
+Core Concepts:
+- Data Structures & Algorithms
+- REST APIs
+- CRUD Operations
+- Frontend-backend integration
+- API integration
+
+Professional Skills:
+- Problem-solving
+- Analytical skills
+- Quick learning
+- Backend development
+- Full-stack development
+
+LIST OF PROJECTS
+- VeritasAI — AI-Powered Fact Verification Platform
+- Forever — Smart eCommerce Platform with Virtual Trial Room
+- Grobuzz Website — For Startup Project
+- MyPortfolio — Personal Portfolio Website
+
+
+PROJECTS
+
+PROJECT: VERITASAI
+
+Name:
+VeritasAI — AI-Powered Fact Verification Platform
+
+Duration:
+August 2026
+
+Description:
+VeritasAI is an AI-powered fact-verification platform that analyzes factual claims using web sources, evidence classification, and deterministic confidence scoring.
+
+Key features and work:
+- Web-based factual claim verification
+- Source searching and quality-based ranking
+- AI-powered evidence classification
+- Deterministic verdict and confidence scoring
+- Evidence and source transparency
+- Responsive React + Tailwind CSS frontend
+- FastAPI backend and API integration
+- Groq LLM integration
+- Frontend-backend deployment and integration
+
+Links:
+GitHub - https://github.com/Ibraheem0809/VeritasAI_Dynamic
+LiveDemo - https://veritasai-puk7.onrender.com/
+
+PROJECT: FOREVER
+
+Name:
+Forever — Smart eCommerce Platform with Virtual Trial Room
+
+Duration:
+April 2026 – May 2026
+
+Description:
+Forever is a MERN-based eCommerce platform with a Virtual Trial Room.
+
+Key features and work:
+- Product management
+- Authentication
+- Responsive UI
+- API integration
+- Frontend-backend integration
+- MERN stack development
+
+Links:
+GitHub - https://github.com/Ibraheem0809/FOREVER_SMART_ECOMMERCE_PLATFORM
+LiveDemo - https://forever-frontend-three-gilt.vercel.app/
+
+PROJECT: GROBUZZ
+
+Name:
+Grobuzz Website — Startup Project
+
+Date:
+March 2026
+
+Description:
+Grobuzz is a responsive website developed based on client requirements.
+
+Key work:
+- Developed a responsive website
+- Worked according to client requirements
+- Focused on UI design
+- Focused on usability
+
+Links:
+GitHub - https://github.com/Ibraheem0809/GroBuzz
+LiveDemo - https://grobuzz-pi.vercel.app/
+
+PROJECT: MYPORTFOLIO
+
+Name:
+MyPortfolio — Personal Portfolio Website
+
+Date:
+December 2025
+
+Description:
+MyPortfolio is a personal portfolio website developed using modern UI design and animations.
+
+Key work:
+- Developed a personal portfolio website
+- Used modern UI
+- Added animations
+- Used UI libraries
+- Focused on improving user experience
+
+Links:
+GitHub - https://github.com/Ibraheem0809/SiddFolio
+LiveDemo - https://sidd-folio-xi.vercel.app/
+
+ACHIEVEMENTS
+
+LeetCode:
+- Solved 100+ Data Structures & Algorithms problems on LeetCode.
+- Earned the LeetCode 50+ days coding streak badge.
+- Maintains consistent problem-solving practice.
+
+Academic:
+- Achieved a CGPA of 8.51 till the 4th semester of B.Tech Computer Science Engineering.
+
+
+PERSONAL INTERESTS
+
+Ibraheem's areas of interest include:
+- AI Engineering
+- Backend Development
+- Full-Stack Development
+- Web Development
+- Data Structures & Algorithms
+- Problem Solving
+
+He is particularly interested in learning through practical projects and applying new technologies by building real-world applications.
+
+
+CAREER GOAL
+
+Ibraheem is seeking a developer internship where he can:
+- Apply his programming and development skills.
+- Gain practical industry experience.
+- Work on real-world software development problems.
+- Learn from experienced developers.
+- Continue developing his backend and full-stack development skills.
+- Continue developing his AI Engineering skills.
+
+CONNECT ME
+
+Ibraheem is available on:
+- Email Id: ibraheemsiddiqui0809@gmail.com
+- Instagram: https://www.instagram.com/sidd_ibraheem/
+- LinkedIn: https://www.linkedin.com/in/md-ibraheem-siddiqui-72224b326/
